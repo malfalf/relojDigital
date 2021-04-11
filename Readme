@@ -1,0 +1,2 @@
+Lo primero, para configurar el módulo RTC hay que hacer uso del ejemplo SetTimeAndDisplay de la librería Grove -RTCDS1307.
+
